@@ -8,7 +8,7 @@ function Kegiatan() {
   const kegiatan = {
     sosial: {
       title: "Kegiatan Sosial",
-      cover: "/src/assets/kegiatan3.webp",
+      cover: "kegiatan/qurban/kegiatan3.webp",
       subs: {
         qurban: {
           title: "Qurban",
@@ -31,15 +31,15 @@ function Kegiatan() {
         },
         zakat: {
           title: "Zakat Fitrah",
-          cover: "kegiatan4.jpg",
-          images: ["kegiatan4.jpg"],
+          cover: "kegiatan/kegiatan4.jpg",
+          images: ["kegiatan/kegiatan4.jpg"],
         },
       },
     },
 
     kajian: {
       title: "Kajian Umum",
-      cover: "kegiatan.jpeg",
+      cover: "kegiatan/kegiatan.jpeg",
       subs: {
         malam: {
           title: "Kajian Malam Jumat",
