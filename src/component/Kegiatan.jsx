@@ -31,15 +31,15 @@ function Kegiatan() {
         },
         zakat: {
           title: "Zakat Fitrah",
-          cover: "kegiatan/kegiatan4.jpg",
-          images: ["kegiatan/kegiatan4.jpg"],
+          cover: "kegiatan/ZF.jpg",
+          images: ["kegiatan/ZF.jpg"],
         },
       },
     },
 
     kajian: {
       title: "Kajian Umum",
-      cover: "kegiatan/kegiatan.jpeg",
+      cover: "kegiatan/kegiatanr.jpeg",
       subs: {
         malam: {
           title: "Kajian Malam Jumat",
