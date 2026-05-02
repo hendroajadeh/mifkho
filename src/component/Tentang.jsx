@@ -184,7 +184,7 @@ function Tentang() {
               className="w-24 h-24 object-cover rounded-full mx-auto mb-4"
             />
             <h4 className="font-semibold">{item.nama}</h4>
-            <h4 className="p-4 rounded-xl shadow-md text-white">{item.jabatan}</h4>
+            <h4 className="p-2 rounded-xl shadow-md text-black">{item.jabatan}</h4>
           </div>
         ))}
       </div>
