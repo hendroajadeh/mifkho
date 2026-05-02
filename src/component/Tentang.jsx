@@ -6,7 +6,7 @@ function Tentang() {
   // 🔥 DATA UTAMA
   const pendiri = {
     nama: "Ustadz H. Iman Ibrahim Al-Adham",
-    img: "./src/assets/pengajar/Abi.png",
+    img: "pengajar/Abi.png",
     bio: "H. Iman Ibrahim Al-Adham, S.Ag (lahir 1979), adalah seorang guru agama asal Jakarta yang menuntaskan pendidikan tinggi di Pondok Pesantren Miftahul Huda, Tasikmalaya. Lulus pada tahun 2001 dengan gelar S.Ag dan pengalaman pelatihan mental semi-militer TNI, ia mengabdi selama dua tahun dalam berbagai posisi strategis, termasuk sebagai Sekretaris Pribadi pimpinan pondok, sebelum akhirnya resmi diangkat menjadi staf pengajar pada awal tahun 2003.",
   };
 
@@ -14,19 +14,19 @@ function Tentang() {
     {
       nama: "Nn. RATU MONA NADHIROH",
       jabatan: "Sekretaris",
-      img: "./src/assets/pengajar/Pengurus.png",
+      img: "pengajar/Pengurus.png",
       bio: "Mengelola administrasi majlis.",
     },
     {
       nama: "Ny. SITI HOLILAH",
       jabatan: "Bendahara",
-      img: "./src/assets/pengajar/Pengurus.png",
+      img: "pengajar/Pengurus.png",
       bio: "Mengatur keuangan majlis.",
     },
     {
       nama: "Fahmi",
       jabatan: "Ketua Santri",
-      img: "/src/assets/pengajar/rasid ganteng.jpg",
+      img: "pengajar/rasid ganteng.jpg",
       bio: "Memimpin para santri.",
     },
   ];
