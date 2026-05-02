@@ -4,7 +4,7 @@ function Hero() {
       
       {/* LOGO */}
     <img
-        src="./src/assets/logo mifkho.png"
+        src="logomifkho.png"
         alt="logo"
         className="w-50 mb-1 mx-auto"
     />

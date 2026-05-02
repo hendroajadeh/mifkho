@@ -10,7 +10,7 @@ function Navbar() {
         <div className="flex justify-between items-center max-w-6xl mx-auto">
           {/* Logo */}
           <div className="flex items-center gap-2">
-            <img src="./src/assets/logo mifkho.png" alt="logo" className="h-8 w-auto" />
+            <img src="logo mifkho.png" alt="logo" className="h-8 w-auto" />
             <h1 className="font-bold text-lg">
               <a href="#hero">Miftahul Khair</a>
             </h1>

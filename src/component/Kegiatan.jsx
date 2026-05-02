@@ -8,53 +8,53 @@ function Kegiatan() {
   const kegiatan = {
     sosial: {
       title: "Kegiatan Sosial",
-      cover: "/src/assets/kegiatan 3.webp",
+      cover: "/src/assets/kegiatan3.webp",
       subs: {
         qurban: {
           title: "Qurban",
-          cover: "/src/assets/kegiatan 3.webp",
+          cover: "kegiatan/qurban/kegiatan3.webp",
           images: [
-            "/src/assets/kegiatan/qurban/q1 (1).JPEG",
-            "/src/assets/kegiatan/qurban/q1 (2).JPEG",
-            "/src/assets/kegiatan/qurban/q1 (3).JPEG",
+            "kegiatan/qurban/q1(1).jpeg",
+            "kegiatan/qurban/q1(2).jpeg",
+            "kegiatan/qurban/q1(3).jpeg",
           ],
         },
         phbi: {
           title: "Hari Besar Islam",
-          cover: "/src/assets/kegiatan 2.jpeg",
+          cover: "kegiatan/PHBI/PHBI(1).jpeg",
           images: [
-            "/src/assets/kegiatan/PHBI/PHBI (1).jpeg",
-            "/src/assets/kegiatan/PHBI/PHBI (2).jpeg",
-            "/src/assets/kegiatan/PHBI/PHBI (3).jpeg",
-            "/src/assets/kegiatan/PHBI/PHBI (4).jpeg",
+            "kegiatan/PHBI/PHBI(1).jpeg",
+            "kegiatan/PHBI/PHBI(2).jpeg",
+            "kegiatan/PHBI/PHBI(3).jpeg",
+            "kegiatan/PHBI/PHBI(4).jpeg",
           ],
         },
         zakat: {
           title: "Zakat Fitrah",
-          cover: "/src/assets/kegiatan 4.jpg",
-          images: ["/src/assets/kegiatan 4.jpg"],
+          cover: "kegiatan4.jpg",
+          images: ["kegiatan4.jpg"],
         },
       },
     },
 
     kajian: {
       title: "Kajian Umum",
-      cover: "/src/assets/kegiatan.jpeg",
+      cover: "kegiatan.jpeg",
       subs: {
         malam: {
           title: "Kajian Malam Jumat",
-          cover: "/src/assets/kegiatan r.jpeg",
-          images: ["/src/assets/kegiatan r.jpeg"],
+          cover: "kegiatan/kegiatanr.jpeg",
+          images: ["kegiatan/kegiatanr.jpeg"],
         },
         tilawah: {
           title: "Tilawatil Qur'an",
-          cover: "/src/assets/kegiatan 1.jpeg",
-          images: ["/src/assets/kegiatan 1.jpeg"],
+          cover: "kegiatan/kegiatan1.jpeg",
+          images: ["kegiatan/kegiatan1.jpeg"],
         },
         sejarah: {
           title: "Bedah Sejarah Nabi",
-          cover: "/src/assets/kegiatan.jpeg",
-          images: ["/src/assets/kegiatan.jpeg"],
+          cover: "kegiatan/kegiatan.jpeg",
+          images: ["kegiatan/kegiatan.jpeg"],
         },
       },
     },
