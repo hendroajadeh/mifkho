@@ -121,33 +121,59 @@ function Tentang() {
 
       </div>
 
-      {/* 🔥 DATA STATISTIK (SANTRI & PENGAJIAN) */}
-      <div className="max-w-4xl mx-auto grid grid-cols-2 md:grid-cols-5 gap-4 mb-12">
-        <div className="bg-gray-100 p-4 rounded-lg shadow border-b-4 border-green-600">
-          <h4 className="font-bold text-green-800 text-sm">Santri Rajul</h4>
-          <p className="text-2xl font-bold">68</p>
+      <div className="max-w-4xl mx-auto mb-12">
+
+      {/* 🔥 STATISTIK (3 KOLOM) */}
+      <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-8">
+        
+        <div className="bg-gray-100 p-4 rounded-lg shadow border-b-4 border-green-600 text-center">
+          <h4 className="font-bold text-green-800 text-sm">Santri Banin</h4>
+          <p className="text-2xl font-bold">47</p>
         </div>
 
-        <div className="bg-gray-100 p-4 rounded-lg shadow border-b-4 border-green-600">
+        <div className="bg-gray-100 p-4 rounded-lg shadow border-b-4 border-green-600 text-center">
           <h4 className="font-bold text-green-800 text-sm">Santri Banat</h4>
-          <p className="text-2xl font-bold">96</p>
+          <p className="text-2xl font-bold">37</p>
         </div>
 
-        <div className="bg-gray-100 p-4 rounded-lg shadow border-b-4 border-green-600">
-          <h4 className="font-bold text-green-800 text-sm">Jamaah Bapak-Bapak</h4>
-          <p className="text-2xl font-bold">25</p>
-        </div>
-
-        <div className="bg-gray-100 p-4 rounded-lg shadow border-b-4 border-green-600">
+        <div className="bg-gray-100 p-4 rounded-lg shadow border-b-4 border-green-600 text-center">
           <h4 className="font-bold text-green-800 text-sm">Jamaah Ibu-Ibu</h4>
           <p className="text-2xl font-bold">20</p>
         </div>
 
-        <div className="bg-green-800 p-4 rounded-lg shadow text-white col-span-2 md:col-span-1">
-          <h4 className="font-bold text-green-200 text-sm">Majlis Ta'lim Binaan</h4>
-          <p className="text-2xl font-bold">5</p>
-        </div>
       </div>
+
+      {/* 🔥 LIRIK MARS */}
+      <div className="bg-green-900 text-white rounded-xl p-6 shadow-lg max-w-2xl mx-auto">
+
+        <h4 className="text-center text-green-300 font-semibold mb-4">
+          Mars Majlis Ta'lim Miftahul Khoir
+        </h4>
+
+        {/* 🔥 ARAB */}
+        <div className="text-center text-lg leading-loose mb-6" dir="rtl">
+          <p>مَا زَالَتْ مَجَالِسُ مِفْتَاحِ الْخَيْرِ</p>
+          <p>بِسُعُودٍ لَيْسَ يَفْنَى</p>
+          <p>لَا تَزُولُ حَتَّى تَنْتَهِي دَرَجَةَ الْعُلْيَا</p>
+          <p>أَعَزَّ أَتَانَا مِنْ مُحَرَّمٍ لَمْ يُدْرِكِ الْأَمَانَةَ</p>
+        </div>
+
+        {/* 🔥 INDONESIA */}
+        <div className="text-center text-sm leading-relaxed space-y-2 italic opacity-90">
+          <p>Kami Pelajar Majlis Miftahul Khoir</p>
+          <p>Ikhlas Dan Ridho Karena Allah Ta’ala</p>
+          <p>Untuk Bekal Hidup Kami Di Masa Depan</p>
+          <p>Warga Negara Republik Indonesia</p>
+          <p>Sabar Sadar Tahan Kesulitan (2x)</p>
+          <p>Menjelang Bahagia Dunia Dan Akhirat</p>
+          <p>Sampai Hasil Ilmu Yang Manfaat</p>
+          <p>Marilah Kita Belajar</p>
+          <p>Sampai Tunai Ridho Allah</p>
+        </div>
+
+      </div>
+
+    </div>
 
       {/* 🔥 PENDIRI */}
       <h3 className="text-2xl font-semibold mb-6 text-green-800">

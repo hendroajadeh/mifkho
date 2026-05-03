@@ -14,7 +14,7 @@ function Hero() {
 
       <div className="max-w-4xl mx-auto mb-6">
         <div className="p-4 rounded-xl shadow-md text-white">
-          <p className="text-xl italic font-medium">"Iman, Ilmu, dan Amal"</p>
+          <p className="text-xl italic font-medium">"Sabar, Sadar, tahan kesulitan"</p>
         </div>
       </div>
 
